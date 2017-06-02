@@ -18,3 +18,6 @@ What this program does is encrypting and decrypting strings by means of an algo 
 ### Coding Standard & License
 * Code follows (or attempted to follow, didnt really enforce that) the Google C++ Style Guide which can be found here: https://google.github.io/styleguide/cppguide.html
 * All the code is licensed with the MIT license.
+
+##### Note
+It takes 22 minutes to calculate the inverse matrix of a very simple matrix like the test one the program generates, use with caution...
